@@ -3,6 +3,7 @@ packages
 
 # Binaries files
 /**/bin
+/**/obj
 
 # Visual Studio configuration
 .vs

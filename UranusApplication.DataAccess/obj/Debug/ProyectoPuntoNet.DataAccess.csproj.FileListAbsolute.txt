@@ -1,6 +1,0 @@
-C:\Users\braya\source\repos\ProyectoPuntoNet\ProyectoPuntoNet.DataAccess\bin\Debug\ProyectoPuntoNet.DataAccess.dll
-C:\Users\braya\source\repos\ProyectoPuntoNet\ProyectoPuntoNet.DataAccess\bin\Debug\ProyectoPuntoNet.DataAccess.pdb
-C:\Users\braya\source\repos\ProyectoPuntoNet\ProyectoPuntoNet.DataAccess\obj\Debug\ProyectoPuntoNet.DataAccess.csprojAssemblyReference.cache
-C:\Users\braya\source\repos\ProyectoPuntoNet\ProyectoPuntoNet.DataAccess\obj\Debug\ProyectoPuntoNet.DataAccess.csproj.CoreCompileInputs.cache
-C:\Users\braya\source\repos\ProyectoPuntoNet\ProyectoPuntoNet.DataAccess\obj\Debug\ProyectoPuntoNet.DataAccess.dll
-C:\Users\braya\source\repos\ProyectoPuntoNet\ProyectoPuntoNet.DataAccess\obj\Debug\ProyectoPuntoNet.DataAccess.pdb
