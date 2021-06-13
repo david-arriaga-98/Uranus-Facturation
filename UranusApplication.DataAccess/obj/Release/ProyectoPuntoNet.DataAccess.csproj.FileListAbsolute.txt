@@ -1,0 +1,6 @@
+C:\Users\braya\OneDrive - Universidad de Guayaquil\Sexto Semestre\Punto net\Proyecto punto net\ProyectoPuntoNet\ProyectoPuntoNet\ProyectoPuntoNet.DataAccess\bin\Release\ProyectoPuntoNet.DataAccess.dll
+C:\Users\braya\OneDrive - Universidad de Guayaquil\Sexto Semestre\Punto net\Proyecto punto net\ProyectoPuntoNet\ProyectoPuntoNet\ProyectoPuntoNet.DataAccess\bin\Release\ProyectoPuntoNet.DataAccess.pdb
+C:\Users\braya\OneDrive - Universidad de Guayaquil\Sexto Semestre\Punto net\Proyecto punto net\ProyectoPuntoNet\ProyectoPuntoNet\ProyectoPuntoNet.DataAccess\obj\Release\ProyectoPuntoNet.DataAccess.csprojAssemblyReference.cache
+C:\Users\braya\OneDrive - Universidad de Guayaquil\Sexto Semestre\Punto net\Proyecto punto net\ProyectoPuntoNet\ProyectoPuntoNet\ProyectoPuntoNet.DataAccess\obj\Release\ProyectoPuntoNet.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive - Universidad de Guayaquil\Sexto Semestre\Punto net\Proyecto punto net\ProyectoPuntoNet\ProyectoPuntoNet\ProyectoPuntoNet.DataAccess\obj\Release\ProyectoPuntoNet.DataAccess.dll
+C:\Users\braya\OneDrive - Universidad de Guayaquil\Sexto Semestre\Punto net\Proyecto punto net\ProyectoPuntoNet\ProyectoPuntoNet\ProyectoPuntoNet.DataAccess\obj\Release\ProyectoPuntoNet.DataAccess.pdb

@@ -1,0 +1,8 @@
+# Nugget Packages
+packages
+
+# Binaries files
+/**/bin
+
+# Visual Studio configuration
+.vs
